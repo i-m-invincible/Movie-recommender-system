@@ -41,13 +41,12 @@
 
 <h2># Example</h2>
 <pre>
-recommend("Batman Begins")
-→ You may also like:
-   - The Dark Knight
-   - Batman v Superman: Dawn of Justice
-   - Man of Steel
-   - The Dark Knight Rises
-   - Superman Returns
+recommend("Avatar")
+  Aliens vs Predator: Requiem
+  Aliens
+  Falcon Rising
+  Independence Day
+  Titan A.E.
 </pre>
 
 <h2># Author</h2>
